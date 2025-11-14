@@ -32,7 +32,7 @@ FSM Based Flowchart for Transmitter and Receiver respectively
 <img width="962" height="602" alt="image" src="https://github.com/user-attachments/assets/82360f2b-f432-4aa5-a096-d30fbb51a845" />
 
 ## EDA Playground implementation:
-- <a href="https://edaplayground.com/x/vc4F" UART Protocol - Design & Verification </a>
+- <a href="https://edaplayground.com/x/vc4F"> UART Protocol - Design & Verification </a>
 ## References:
 - <a href="https://www.udemy.com/share/106k2a3@Jpho-VOf8wTPMeQi-Apt53UxAA9B7tMgNLXkbx1mdukUFrunTmb_XEcQ5SiTqofGcQ==/"> [Course] Verification Series Part 2: Hands-On SystemVerilog Projects </a>
 - <a href="https://youtu.be/beJZ5J-Ged0?si=HuvtbFAjhy_PGDzU"> [YOUTUBE] UART Protocol by Engineering Funda </a>

@@ -22,4 +22,20 @@ A dedicated repo for design and verification of Universal Asynchronous Receiver 
 
   ## FSM Architecture:
   
+![WhatsApp Image 2025-11-14 at 22 17 00_642c5a2a](https://github.com/user-attachments/assets/33a1853a-fd68-4a1e-9fa1-1f36e94e1fc6)
+FSM Based Flowchart for Transmitter and Receiver respectively
+
+## Block Diagram
+<img width="581" height="404" alt="image" src="https://github.com/user-attachments/assets/6cef6f09-3cca-4dd1-9dc8-ae9cc2c7001d" />
+
+## Testbench Architecture
+<img width="962" height="602" alt="image" src="https://github.com/user-attachments/assets/82360f2b-f432-4aa5-a096-d30fbb51a845" />
+
+## EDA Playground implementation:
+- <a href="https://edaplayground.com/x/K_SU">SPI Protocol - Design & Verification </a>
+## References:
+- <a href="https://www.udemy.com/share/106k2a3@Jpho-VOf8wTPMeQi-Apt53UxAA9B7tMgNLXkbx1mdukUFrunTmb_XEcQ5SiTqofGcQ==/"> [Course] Verification Series Part 2: Hands-On SystemVerilog Projects </a>
+- <a href="https://youtu.be/beJZ5J-Ged0?si=HuvtbFAjhy_PGDzU"> [YOUTUBE] UART Protocol by Engineering Funda </a>
+- <a href="https://youtu.be/JuvWbRhhpdI?si=0mCUrSexYhoI4Syf"> [YOUTUBE] Basics of UART Communication | UART Frame Structure | RS 232 Basics by Foolish Engineer </a>
+- [BOOK] Serial Communication Protocols and Standards by  Dawoud Shenouda Dawoud and Peter Dawoud
 
